@@ -1,4 +1,4 @@
-# <img src="https://www.worldscode.com/wp-content/uploads/2020/06/undraw_feeling_proud_qne1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# <img src="https://clientes.meuvista.com/wp-content/uploads/2020/03/undraw_feeling_proud_qne1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello! my name is Aaron Folmer and im a teenager programmer who wants to become a <strong>CyberSecurity</strong> programmer!.
