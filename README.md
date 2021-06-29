@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JS, C#.</strong>
+  🦄 Languages: <strong>HTML, CSS, JS, C#.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Figma, Visual Studio Code, Visual Studio 2019.</strong>
+  💼 Tools: <strong>Figma, Visual Studio Code, Visual Studio 2019.</strong>
 </p>
 
 <p align="left">
-  💌 Caso queira me contatar para algo: ⤵️ <br>
+  💌 In case of contact: ⤵️ <br>
   aaroncruzfolmer@gmail.com </br>
 </p>
 
