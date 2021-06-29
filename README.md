@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira me contatar para algo: ⤵️
-  aaroncruzfolmer@gmail.com
+  💌 Caso queira me contatar para algo: ⤵️ <br>
+  aaroncruzfolmer@gmail.com </br>
 </p>
 
