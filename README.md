@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JS, C#.</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JS, C#.</strong>
 </p>
 
 <p align="left">
