@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# <img src="file:///home/aaronfolmer/Downloads/undraw_feeling_proud_qne1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello! my name is Aaron Folmer and im a teenager programmer who wants to become a <strong>CyberSecurity</strong> programmer!.
