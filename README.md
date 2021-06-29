@@ -14,5 +14,6 @@
 
 <p align="left">
   💌 Caso queira me contatar para algo: ⤵️
+  aaroncruzfolmer@gmail.com
 </p>
 
