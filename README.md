@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 In case of contact: ⤵️ <br>
+  💌 In any case of contact: ⤵️ <br>
   aaroncruzfolmer@gmail.com </br>
 </p>
 
