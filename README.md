@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, JS, C#.</strong>
+  🥷 Skills: <strong>HTML, CSS, JS, C#.</strong>
 </p>
 
 <p align="left">
