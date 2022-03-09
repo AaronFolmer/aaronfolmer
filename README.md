@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🥷 Skills: <strong>HTML, CSS, JS, C#.</strong>
+  🥷 Skills: <strong>HTML, CSS, JS, C#, ReactJS, Unity, TypeScript.</strong>
 </p>
 
 <p align="left">
