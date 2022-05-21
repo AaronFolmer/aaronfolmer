@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello! my name is Aaron Folmer and im a teenager programmer who wants to become a <strong>CyberSecurity</strong> programmer!.
+  Hello! my name's Aaron Folmer and im a programmer who wants to become a <strong>CyberSecurity</strong> programmer!.
 </p>
 
 <p align="left">
