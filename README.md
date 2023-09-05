@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  Learning: <strong>HTML, CSS, JS, C#, ReactJS, Unity, TypeScript.</strong>
+  Learning: <strong>HTML, CSS, JS, ReactJS, TypeScript.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Figma, Visual Studio Code, Visual Studio 2019.</strong>
+  💼 Tools: <strong>Figma, Visual Studio Code.</strong>
 </p>
 
 <p align="left">
