@@ -5,7 +5,11 @@
 </p>
 
 <p align="left">
-  Learning: <strong>HTML, CSS, JS, ReactJS, TypeScript.</strong>
+  Currently Learning: <strong>Express, NodeJS, React Native</strong>
+</p>
+
+<p align="left">
+  Skills: <strong>HTML, CSS, JavaScript, ReactJS, Docker, Git</strong>
 </p>
 
 <p align="left">
