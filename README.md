@@ -1,5 +1,5 @@
 ## Hello! my name's Aaron Folmer!
-A self-taught Junior Fullstack Web Developer, looking forward to work and learn in fullstack technologies!
+A self-taught Junior Fullstack Developer, looking forward to work and learn in fullstack technologies!
 
 ## Languages and Tools
 
